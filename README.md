@@ -21,9 +21,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Software Engineering student from Egypt  
-- 💻 Passionate about full-stack development using .NET technologies  
-- 🧠 Skilled in C#, ASP.NET MVC, Entity Framework, and SQL Server  
+- 🎓 Software Engineering from Egypt  
+- 💻 Passionate about development using .NET technologies  
+- 🧠 Skilled in C#, ASP.NET MVC,API, Entity Framework, and SQL Server  
 - 🌐 Familiar with HTML, CSS, JavaScript, and React  
 - 🐳 Comfortable with Git, GitHub, and Docker  
 - 🚀 Always eager to learn, build, and explore new tech  
